@@ -1,0 +1,11 @@
+/Users/abdessamad/work/rust-cmd/echor/target/debug/deps/assert_cmd-1cbb4c261513dc35.rmeta: /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/lib.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/assert.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/cargo.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/cmd.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/output.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/color.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/../README.md
+
+/Users/abdessamad/work/rust-cmd/echor/target/debug/deps/assert_cmd-1cbb4c261513dc35.d: /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/lib.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/assert.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/cargo.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/cmd.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/output.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/color.rs /Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/../README.md
+
+/Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/lib.rs:
+/Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/assert.rs:
+/Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/cargo.rs:
+/Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/cmd.rs:
+/Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/output.rs:
+/Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/color.rs:
+/Users/abdessamad/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.10/src/../README.md:
